@@ -28,4 +28,4 @@ if b1:
         st.video(video,format="mp4/video")
     with subCol2:
         img = 'https://th.bing.com/th/id/R.df2595e64b427e542ee04a1b979065b9?rik=wgTN9eXyNSLPzw&pid=ImgRaw&r=0'
-        st.image(img,caption='Con mèo')
+        st.image(img,caption='Con đại bàng')
