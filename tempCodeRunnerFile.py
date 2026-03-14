@@ -1,0 +1,1 @@
+HocSinh.soluong +=1
